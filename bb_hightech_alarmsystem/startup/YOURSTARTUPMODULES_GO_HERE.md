@@ -1,0 +1,1 @@
+This territory must contain all motors you want to use upon startup of the alarm system
