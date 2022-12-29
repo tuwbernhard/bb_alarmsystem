@@ -5,7 +5,8 @@
 ;
 ; Component: Main components
 ;
-; Purpose of this Component: This is a machine that plays an alarm. It cannot be stopped and it plays it 50 times and speaks if desired.
+; Purpose of this Component: This is a machine that plays an alarm. 
+; It cannot be stopped and it plays it 50 times and speaks if desired.
 ;
 ; Made with love by author: Bernhard Brenner <bernhard.brenner@tuwien.ac.at>
 ; Date: 2022-06-03
