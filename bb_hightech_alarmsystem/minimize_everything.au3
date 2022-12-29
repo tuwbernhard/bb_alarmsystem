@@ -84,25 +84,6 @@ endfunc
 
 
 
-func loginOetl () 
-	Send("{CTRLDOWN}0{CTRLUP}")
-	sleep(2000)
-	MouseClick("left",737,456,1)
-	sleep(2000)
-	Send("{CTRLDOWN}a{CTRLUP}{BACKSPACE}oetlmin")
-	sleep(2000)
-	MouseClick("left",1208,497,1)
-	sleep(2000)
-	MouseClick("left",696,562,1)
-	sleep(2000)
-	Send("sjd2hba012kdm4u")
-	sleep(2000)
-	send("{ENTER}")
-endfunc
-
-
-
-
 
 
 ;deInit
